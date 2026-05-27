@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Extended Emote Menu - Categorically
+## Version: 1.0.0
+## Author: Yvonne Pautz
+## Dependencies: ExtendedEmoteMenu
+
+Localization.xml
+ExtendedEmoteMenu_Categorically.lua

@@ -1,0 +1,23 @@
+## Interface: 30300
+## Title: Extended Emote Menu
+## Version: 1.0.0
+## Author: Yvonne Pautz
+## SavedVariablesPerCharacter: ExtendedEmoteMenuDB
+
+#@no-lib-strip@
+Libs\LibStub\LibStub.lua
+Libs\AceLocale-3.0\AceLocale-3.0.xml
+#@end-no-lib-strip@
+
+#@no-lib-strip@
+VLibs\V_Pattern-1.0\V_Pattern-1.0.xml
+VLibs\V_Table-1.0\V_Table-1.0.xml
+VLibs\V_Emote-1.0\V_Emote-1.0.xml
+VLibs\V_Addon-1.0\V_Addon-1.0.xml
+#@end-no-lib-strip@
+
+Localization.xml
+
+ExtendedEmoteMenu.lua
+ExtendedEmoteMenu_Database.lua
+ExtendedEmoteMenu_Core.lua
